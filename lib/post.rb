@@ -5,5 +5,5 @@ class Post
 #    def initialize
 #      self.title = title
 #    end
-# end
+end
 post = Post.new("This is the title")
