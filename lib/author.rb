@@ -4,8 +4,7 @@ class Author
 
   def initialize
     self.name = name
-  end  
+  end
 
 
 end
-  
