@@ -6,4 +6,4 @@ class Post
 #      self.title = title
 #    end
 end
-post = Post.new("This is the title")
+post = Post.new
